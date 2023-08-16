@@ -1,0 +1,6 @@
+.div{
+	border-image-repeat: round;
+	border-width: 10px;
+	border-style:dashed;
+
+}

@@ -1,0 +1,89 @@
+.a3{
+	margin-left:100px;
+	background-color: lightgray;
+}
+.a{
+	height: 100%;
+	width: 100%;
+	margin:100px;
+	background-color: red;
+}
+.a4{
+	height: 10%;
+	width: 100%;
+	background-color: lightgray;
+}
+.a5
+{
+	height:20%;
+	width: 100%;
+	background-color: lightgray;
+}
+.b{
+	height: 100%;
+	width: 100%;
+}
+i{
+	font-size: 40px;
+	padding: 10px;
+	display:block;
+}
+.b1{
+	text-align:right ;
+	text-align: top;
+}
+.b2{
+	height: 12%;
+	width: 20%;
+	background-color: white;
+	margin: 10px;
+}
+.b3{
+	color: blue;
+}
+.b4{
+	text-align: right;
+}
+.b41{
+	float: right;
+}
+div{
+	border-radius: 15px;
+}
+.f1{
+	color: skyblue;
+}
+.f2{
+	color: orange;
+}
+.f3{
+	color: green;
+}
+.f4{
+	color: red;
+}
+.f5{
+	color: red;
+}
+.f6{
+	color: green;
+}
+.f7{
+	color: yellow;
+}
+.f8{
+	color: skyblue;
+}
+.f9{
+	color: skyblue;
+}
+.f10{
+	color: yellow;
+}
+.f11{
+	color: green;
+}
+.f12{
+	color: red;
+
+}

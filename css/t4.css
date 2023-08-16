@@ -1,0 +1,39 @@
+#one {
+          height: 2px;
+          position: relative;
+          }
+          #one:before {
+         background-color: blue;
+         content: '';
+         height: 4px;
+         position: absolute;
+         top: -2px;
+         width: 80%;
+         z-index: 1;
+        }
+        #two {
+          height: 2px;
+          position: relative;
+          }
+          #two:before {
+         background-color: yellow;
+         content: '';
+         height: 4px;
+         position: absolute;
+         top: -2px;
+         width: 50%;
+         z-index: 1;
+        }
+        #three {
+          height: 2px;
+          position: relative;
+          }
+          #three:before {
+         background-color: red;
+         content: '';
+         height: 4px;
+         position: absolute;
+         top: -2px;
+         width: 40%;
+         z-index: 1;
+        }
